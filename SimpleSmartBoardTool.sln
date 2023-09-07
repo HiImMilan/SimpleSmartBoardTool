@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSmartBoardTool", "SimpleSmartBoardTool.csproj", "{1535E906-DD8D-493D-A8EF-1B8D9AC36914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1535E906-DD8D-493D-A8EF-1B8D9AC36914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1535E906-DD8D-493D-A8EF-1B8D9AC36914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1535E906-DD8D-493D-A8EF-1B8D9AC36914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1535E906-DD8D-493D-A8EF-1B8D9AC36914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7040AB71-4C5A-49A9-B78F-427BC34D677F}
+	EndGlobalSection
+EndGlobal
